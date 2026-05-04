@@ -290,7 +290,7 @@ All animations and interactive features are carefully tuned for performance acro
 - 🎓 Computer Science Student, Cairo University
 - 💼 [LinkedIn](https://linkedin.com/in/youssef-jameel-abdullatif-ali)
 - 🐙 [GitHub](https://github.com/youssef-jamil)
-- ✉️ [Email](mailto:yousefjamelabdulatif@gmail.com)
+- ✉️ [Email](mailto:youssefjamelabdullatif@gmail.com)
 
 ---
 
@@ -318,7 +318,7 @@ If you find any issues or have suggestions for improvements:
 
 For questions, feedback, or collaboration opportunities:
 
-- **Email**: yousefjamelabdulatif@gmail.com
+- **Email**: youssefjamelabdullatif@gmail.com
 - **LinkedIn**: [youssef-jameel-abdullatif-ali](https://linkedin.com/in/youssef-jameel-abdullatif-ali)
 - **GitHub**: [@youssef-jamil](https://github.com/youssef-jamil)
 
