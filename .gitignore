@@ -1,0 +1,156 @@
+# ═══════════════════════════════════════════════════════════
+#  .gitignore — Yousef Jameel Personal Portfolio
+#  https://github.com/youssef-jamil/youssefjamil
+# ═══════════════════════════════════════════════════════════
+
+
+# ───────────────────────────────────────
+#  OPERATING SYSTEM
+# ───────────────────────────────────────
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+
+# ───────────────────────────────────────
+#  EDITORS & IDEs
+# ───────────────────────────────────────
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ …)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Neovim
+*.swp
+*.swo
+*~
+Session.vim
+.netrwhist
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+
+
+# ───────────────────────────────────────
+#  NODE / NPM (if tooling is ever added)
+# ───────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.npm
+.yarn/
+
+
+# ───────────────────────────────────────
+#  BUILD OUTPUTS
+# ───────────────────────────────────────
+dist/
+build/
+out/
+.cache/
+.parcel-cache/
+.vite/
+
+
+# ───────────────────────────────────────
+#  SASS / SCSS (if a compiler is added)
+# ───────────────────────────────────────
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+
+# ───────────────────────────────────────
+#  ENVIRONMENT & SECRETS
+# ───────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+secrets.json
+
+
+# ───────────────────────────────────────
+#  LOGS & TEMP FILES
+# ───────────────────────────────────────
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.pid
+
+
+# ───────────────────────────────────────
+#  IMAGES — ORIGINALS / RAW EXPORTS
+#  (keep only web-optimised assets)
+# ───────────────────────────────────────
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xd
+*.afdesign
+*.afphoto
+
+
+# ───────────────────────────────────────
+#  MISC
+# ───────────────────────────────────────
+*.zip
+*.tar.gz
+*.rar
+.htaccess.bak
+TODO.md
+NOTES.md
